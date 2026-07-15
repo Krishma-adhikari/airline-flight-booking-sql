@@ -1,0 +1,9 @@
+flight_name,price,departure_time,airline_name
+BG505,20000.00,"2026-08-05 10:00:00","Biman Bangladesh Airlines"
+EK303,48000.00,"2026-08-03 03:30:00",Emirates
+EK306,55000.00,"2026-08-06 09:00:00",Emirates
+NA101,15000.00,"2026-08-01 08:00:00","Nepal Airlines"
+NA102,15500.00,"2026-08-01 11:00:00","Nepal Airlines"
+QA202,45000.00,"2026-08-02 02:15:00","Qatar Airways"
+QA204,47000.00,"2026-08-07 20:00:00","Qatar Airways"
+TG404,32000.00,"2026-08-04 14:00:00","Thai Airways"

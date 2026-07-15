@@ -1,0 +1,6 @@
+passenger_id,passenger_name,passport_number,passenger_email,passenger_phone,passenger_address
+1,"Krishma Adhikari",N1234567,rajesh.sharma@example.com,9841000001,"Kathmandu, Nepal"
+2,"Anita Gurung",N2345678,anita.gurung@example.com,9841000002,"Pokhara, Nepal"
+3,"Bibek Thapa",N3456789,bibek.thapa@example.com,9841000003,"Lalitpur, Nepal"
+4,"Sunita Rai",N4567890,sunita.rai@example.com,9841000004,"Biratnagar, Nepal"
+5,"Amit Verma",P5678901,amit.verma@example.com,9812345678,"Delhi, India"

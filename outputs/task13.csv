@@ -1,0 +1,8 @@
+passenger_name,flight_number,airline_name,payment_status
+"Krishma Adhikari",NA101,"Nepal Airlines",Paid
+"Krishma Adhikari",EK306,Emirates,Paid
+"Anita Gurung",QA202,"Qatar Airways",Paid
+"Anita Gurung",QA204,"Qatar Airways",Paid
+"Bibek Thapa",EK303,Emirates,Paid
+"Sunita Rai",TG404,"Thai Airways",Pending
+"Amit Verma",BG505,"Biman Bangladesh Airlines",Failed

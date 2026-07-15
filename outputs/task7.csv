@@ -1,0 +1,9 @@
+flight_name,price,departure_city,arrival_city
+NA102,15500.00,Delhi,Kathmandu
+QA204,47000.00,Doha,Kathmandu
+EK306,55000.00,Dubai,Singapore
+NA101,15000.00,Kathmandu,Delhi
+QA202,45000.00,Kathmandu,Doha
+EK303,48000.00,Kathmandu,Dubai
+TG404,32000.00,Kathmandu,Bangkok
+BG505,20000.00,Kathmandu,Dhaka

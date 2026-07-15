@@ -1,0 +1,8 @@
+passenger_name,flight_name,status
+"Krishma Adhikari",NA101,Booked
+"Krishma Adhikari",EK306,Booked
+"Anita Gurung",QA202,Booked
+"Anita Gurung",QA204,Checked-in
+"Bibek Thapa",EK303,Checked-in
+"Sunita Rai",TG404,Booked
+"Amit Verma",BG505,Cancelled

@@ -1,0 +1,4 @@
+payment_status,total_revenue
+Paid,210000.00
+Pending,32000.00
+Failed,20000.00
